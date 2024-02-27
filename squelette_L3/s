@@ -1,0 +1,24 @@
+ id | conducteur | trajet | tarif | nbplace | heuredepart |    contraintes    
+----+------------+--------+-------+---------+-------------+-------------------
+ 24 |          5 |      8 |    85 |       4 |           5 | Chat accepté
+ 25 |          2 |      8 |    40 |       2 |          10 | pas de chat
+ 26 |          1 |     37 |    20 |       5 |           7 | Pas de nourriture
+ 27 |          3 |     22 |    85 |       2 |           9 | tabac interdit
+ 28 |          5 |     10 |    40 |       3 |           7 | Fumeur
+ 29 |          1 |     11 |    45 |       3 |          19 | Non fumeur
+ 30 |          5 |     18 |    85 |       3 |          19 | pas de chat
+ 31 |          3 |     24 |    30 |       5 |           4 | chien autorisé
+ 32 |          5 |     34 |    30 |       5 |          15 | Enfant autorisé
+ 33 |          2 |     25 |    30 |       2 |          10 | tabac interdit
+ 34 |          3 |     30 |    40 |       2 |          16 | Pas de nourriture
+ 35 |          3 |     12 |    85 |       3 |          20 | Pas de nourriture
+ 36 |          4 |     44 |    85 |       5 |          15 | tabac interdit
+ 37 |          2 |     29 |    45 |       5 |           9 | pas d'animaux
+ 38 |          2 |     29 |    40 |       2 |          10 | Enfant interdit
+ 39 |          5 |     20 |    40 |       4 |          18 | pas de chat
+ 40 |          2 |     40 |    20 |       4 |          20 | Chat accepté
+ 41 |          5 |     20 |    85 |       4 |          11 | Pas de nourriture
+ 42 |          2 |     10 |    50 |       3 |           7 | conducteur fumeur
+ 43 |          5 |      5 |    50 |       2 |          11 | pas de chat
+(20 rows)
+
