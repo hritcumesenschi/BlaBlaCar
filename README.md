@@ -44,4 +44,17 @@ You can see that the trip we have created before is now in the database.
   ![IMG_0649](https://github.com/hritcumesenschi/BlaBlaCar/assets/94391139/fe82c6b9-ddaf-40f3-b4f8-9acae7b3fb5f)
 
 
+## Technologies Used:
+The  project incorporates SQL, a standard language for interacting with relational databases, to provide real-time access to data stored in the backend database. SQL functions are employed within the project to execute queries and retrieve information from the database tables.
 
+1. AJAX (Asynchronous JavaScript and XML)
+   - Utilized AJAX for asynchronous data retrieval and dynamic content updating without page reloads. This enhances user experience by providing seamless interactions.
+
+2. Doctrine:
+   - Employed Doctrine, an ORM library for PHP, for simplified database access. Doctrine abstracts database interactions, allowing manipulation of PHP objects instead of raw SQL queries.
+
+3. Form Processing:
+   - Implemented form processing to handle user input from HTML forms. This involves validating, processing, and storing form data in the database. 
+
+
+These technologies collectively enable the development of interactive and dynamic web applications, enhancing usability and efficiency.
